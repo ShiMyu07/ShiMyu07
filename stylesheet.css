@@ -82,3 +82,13 @@ footer {
 .matome h2 {
   color: rgb(255, 0, 0);
 }
+
+.btn {
+  background-color: rgba( 90,0,173,0.5);
+  color: white;
+  padding: 2px;
+}
+
+.btn:hover {
+  background-color: rgba(90, 0, 173,0.7)
+}
